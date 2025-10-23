@@ -27,7 +27,7 @@ export default function App() {
         images={images}
         width={350}
         imageDistance={700}
-        perspective={1500}
+        perspective={1000}
       />
     </div>
   );
